@@ -1,0 +1,40 @@
+Team,	Score_type
+UMich,Layup
+MSU,Jumper
+UMich,Layup
+MSU,Layup
+MSU,Layup
+UMich,Layup
+MSU,Layup
+UMich,Free Throw
+UMich,Free Throw
+UMich,Dunk
+UMich,Layup
+UMich,Free Throw
+UMich,Free Throw
+MSU,Three Pointer
+MSU,Free Throw
+UMich,Layup
+MSU,Jumper
+UMich,Jumper
+MSU,Three Pointer
+MSU,Free Throw
+UMich,Free Throw
+UMich,Free Throw
+UMich,Jumper
+MSU,Three Pointer
+MSU,Layup
+MSU,Free Throw
+UMich,Dunk
+MSU,Dunk
+UMich,Jumper
+UMich,Free Throw
+MSU,Layup
+UMich,Three Pointer
+MSU,Three Pointer
+MSU,Layup
+UMich,Jumper
+MSU,Three Pointer
+UMich,Layup
+UMich,Free Throw
+MSU,Three Pointer
